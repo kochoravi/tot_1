@@ -4,6 +4,7 @@ from matplotlib import style
 import time
 
 style.use("ggplot")
+# one line needs to be added
 
 fig = plt.figure()
 ax1 = fig.add_subplot(1,1,1)
