@@ -6,6 +6,8 @@ import time
 style.use("ggplot")
 # one line needs to be added
 # b1 added
+# b1 added again
+
 
 fig = plt.figure()
 ax1 = fig.add_subplot(1,1,1)
